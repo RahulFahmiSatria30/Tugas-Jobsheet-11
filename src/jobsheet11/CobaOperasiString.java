@@ -1,5 +1,5 @@
 package jobsheet11;
-import java.util.Scanner;
+import java.util.Locale;
 public class CobaOperasiString {
     public static void main(String[] args) {
         
