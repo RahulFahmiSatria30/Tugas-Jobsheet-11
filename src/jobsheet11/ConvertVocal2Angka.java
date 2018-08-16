@@ -8,5 +8,12 @@ public class ConvertVocal2Angka {
 
     }
   
+    
+    public static void main(String[] args){
+    
+        String identitas = " Rahul Fahmi Satria / XRPL2 / 28 ";
+        
+        tampilJudul(identitas); 
+    }
 
 }
