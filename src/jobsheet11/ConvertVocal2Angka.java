@@ -48,7 +48,12 @@ public class ConvertVocal2Angka {
         tampilPerKata(kalimat,convert);
     }
             
-            
+    private static void tampilHasil(String convert){
+         System.out.println("Kalimat Alay Angka : " + convert);
+         tampilHasil(convert);
+    }
+    
+
 
          
 }
